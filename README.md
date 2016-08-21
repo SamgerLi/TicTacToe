@@ -1,4 +1,4 @@
-Comprises of a simple user interface and intermediate computer artificial intelligence for the user to never be able to win against the program, in a fair game of the classic Tic Tac Toe.
+Comprises of a simple user interface and intermediate computer artificial intelligence such that the user is never able to win against the computer, in a fair game of the classic Tic Tac Toe.
 # Notes 
 This Tic Tac Toe game V1.0 was initally developed with the Ready to Program (Java IDE) for ICS3U Computer Science programming project completed on Jan 20, 2012. 
 Later imported the project to the Eclipse IDE with the appropriate compatibility such as the hsa.Console and JRE 1.4.2 that Ready to Program uses.
